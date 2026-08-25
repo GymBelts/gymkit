@@ -1,0 +1,4 @@
+/gymkit
+*.exe
+*.test
+.DS_Store
