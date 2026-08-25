@@ -1,6 +1,6 @@
 # gymkit
 
-Shared Go libraries for GymBelts apps (AMP, Wodgen, GymAuth).
+Shared Go libraries for GymBelts apps (AMP, Wodgen, GymAuth). Module path: `github.com/GymBelts/gymkit`.
 
 | Package | Used by | Purpose |
 |---|---|---|
